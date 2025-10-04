@@ -1,2 +1,2 @@
 # gitdemo
-This is my first git repository
+This is my first git repository(Rasika thakre)
